@@ -1,0 +1,11 @@
+--2017-06-21 11:49:48--  https://filezigzag.s3.amazonaws.com/349392/250181cc-fff9-49c7-b9bd-f10f36e863e5/PTT_20170621_WA0065_opus.MP3?AWSAccessKeyId=AKIAJP4TWG7FXXCF5XAQ&Expires=1498038085&Signature=iIdjJeMchISZTfi%2BMeC89hLdSKA%3D
+Resolving filezigzag.s3.amazonaws.com... 52.216.224.176
+Connecting to filezigzag.s3.amazonaws.com|52.216.224.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35757 (35K) [application/x-mswrite]
+Saving to: ‘PTT_20170621_WA0065_opus.MP3?AWSAccessKeyId=AKIAJP4TWG7FXXCF5XAQ&Expires=1498038085&Signature=iIdjJeMchISZTfi%2BMeC89hLdSKA%3D’
+
+     0K .......... .......... .......... ....                 100%  112K=0.3s
+
+2017-06-21 11:49:49 (112 KB/s) - ‘PTT_20170621_WA0065_opus.MP3?AWSAccessKeyId=AKIAJP4TWG7FXXCF5XAQ&Expires=1498038085&Signature=iIdjJeMchISZTfi%2BMeC89hLdSKA%3D’ saved [35757/35757]
+
